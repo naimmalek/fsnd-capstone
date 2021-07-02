@@ -1,0 +1,9 @@
+export AUTH0_DOMAIN='xxxxxxxxxxxx.auth0.com'
+export ALGORITHMS=['RS256']
+export API_AUDIENCE='xxxxxxxxxxx'
+export CLIENT_ID='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+export FLASK_APP=app.py
+export DATABASE_URL=postgres://username:pass@host:5432/database
+export casting_assistant=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+export casting_director=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+export exc_producer=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
